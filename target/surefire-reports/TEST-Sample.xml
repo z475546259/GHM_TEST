@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="Sample" time="53.792" errors="0" skipped="0">
+  <properties>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="LOGONSERVER" value="\\G1W9294"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_101\jre"/>
+    <property name="TITLE" value="Tomcat"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/jenkins/"/>
+    <property name="CATALINA_HOME" value="C:\Users\zhanzhiq\apache-tomcat-8.0.30"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_101\jre\lib\endorsed"/>
+    <property name="PSModulePath" value="C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\"/>
+    <property name="=::" value="::\"/>
+    <property name="USERDOMAIN" value="ASIAPACIFIC"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="JAVA_OPTS" value=" -Djava.util.logging.config.file=&quot;C:\Users\zhanzhiq\apache-tomcat-8.0.30\conf\logging.properties&quot; -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.version" value="1.8.0_101"/>
+    <property name="JOB_NAME" value="TestMaven"/>
+    <property name="COMPUTERNAME" value="ZHANZHIQ5"/>
+    <property name="LSFORCEHOST" value="c2w21525.itcs.hpecorp.net"/>
+    <property name="windows_tracing_logfile" value="C:\BVTBin\Tests\installpackage\csilogfile.log"/>
+    <property name="EXECUTABLE" value="C:\Users\zhanzhiq\apache-tomcat-8.0.30\bin\catalina.bat"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="user.name" value="zhanzhiq"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="windir" value="C:\WINDOWS"/>
+    <property name="PROCESSOR_IDENTIFIER" value="AMD64 Family 21 Model 48 Stepping 1, AuthenticAMD"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="LOCALAPPDATA" value="C:\Users\zhanzhiq\AppData\Local"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="user.script" value=""/>
+    <property name="path.separator" value=";"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="BUILD_TAG" value="jenkins-TestMaven-40"/>
+    <property name="windows_tracing_flags" value="3"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="NLS_LANG" value="AMERICAN_AMERICA.UTF8"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven32Main C:\Users\zhanzhiq\selenium\apache-maven-3.3.9-bin\apache-maven-3.3.9 C:\Users\zhanzhiq\apache-tomcat-8.0.30\webapps\jenkins\WEB-INF\lib\remoting-2.62.jar C:\Users\zhanzhiq\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven32-interceptor-1.7.jar C:\Users\zhanzhiq\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.7.jar 56969"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/jenkins/"/>
+    <property name="JENKINS_SERVER_COOKIE" value="9e5d814f38b826c5"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="Path" value="C:\Program Files\Java\jdk1.8.0_101/bin;C:\oracle\product\10.2.0\db_1\bin;C:\ProgramData\Oracle\Java\javapath;C:\app\xiaozhe\product\11.2.0\client_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\ActivIdentity\ActivClient\;C:\Program&gt; Files (x86)\ActivIdentity\ActivClient\;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\Java\jdk1.8.0_101\bin;C:\Program Files\Java\jdk1.8.0_101\jre\bin;C:\Program Files (x86)\HP\Unified Functional Testing\bin;C:\Program Files\TortoiseSVN\bin;C:\Users\zhanzhiq\eclipse\apache-ant-1.9.6-bin\apache-ant-1.9.6\bin;C:\Users\zhanzhiq\selenium\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin;C:\Program Files (x86)\Git\bin;C:\Users\zhanzhiq\Downloads\android-sdk-windows\android-sdk-windows\tools;C:\Users\zhanzhiq\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\zhanzhiq\AppData\Local\Programs\Python\Python35\"/>
+    <property name="java.io.tmpdir" value="C:\Users\zhanzhiq\AppData\Local\Temp\"/>
+    <property name="APPDATA" value="C:\Users\zhanzhiq\AppData\Roaming"/>
+    <property name="DEFLOGDIR" value="C:\ProgramData\McAfee\DesktopProtection"/>
+    <property name="user.language" value="en"/>
+    <property name="CATALINA_TMPDIR" value="C:\Users\zhanzhiq\apache-tomcat-8.0.30\temp"/>
+    <property name="line.separator" value="
+"/>
+    <property name="BUILD_URL" value="http://localhost:8080/jenkins/job/TestMaven/40/"/>
+    <property name="JAVA_ENDORSED_DIRS" value="C:\Users\zhanzhiq\apache-tomcat-8.0.30\endorsed"/>
+    <property name="ACTION" value="start"/>
+    <property name="M2_HOME" value="C:\Users\zhanzhiq\selenium\apache-maven-3.3.9-bin\apache-maven-3.3.9"/>
+    <property name="=C:" value="C:\Users\zhanzhiq\apache-tomcat-8.0.30\bin"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="BUILD_DISPLAY_NAME" value="#40"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="LSERVRC" value="C:\ProgramData\HP\Functional testing\License\lservrc"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="CATALINA_BASE" value="C:\Users\zhanzhiq\apache-tomcat-8.0.30"/>
+    <property name="HUDSON_SERVER_COOKIE" value="9e5d814f38b826c5"/>
+    <property name="JRE_HOME" value="C:\Program Files\Java\jdk1.8.0_101"/>
+    <property name="_EXECJAVA" value="start &quot;Tomcat&quot; &quot;C:\Program Files\Java\jdk1.8.0_101\bin\java.exe&quot;"/>
+    <property name="_RUNJAVA" value="&quot;C:\Program Files\Java\jdk1.8.0_101\bin\java.exe&quot;"/>
+    <property name="MAVEN_HOME" value="C:\Users\zhanzhiq\selenium\apache-maven-3.3.9-bin\apache-maven-3.3.9"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="maven3.interceptor.common" value="C:\Users\zhanzhiq\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.7.jar"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="LOGGING_CONFIG" value="-Djava.util.logging.config.file=&quot;C:\Users\zhanzhiq\apache-tomcat-8.0.30\conf\logging.properties&quot;"/>
+    <property name="ST_INSTALL_PATH" value="C:\Program Files (x86)\HP\Unified Functional Testing\"/>
+    <property name="HOMEPATH" value="\Users\zhanzhiq"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="FP_NO_HOST_CHECK" value="NO"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="40"/>
+    <property name="maven3.interceptor" value="C:\Users\zhanzhiq\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven32-interceptor-1.7.jar"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_101\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\zhanzhiq\selenium\apache-maven-3.3.9-bin\apache-maven-3.3.9/bin;C:\Program Files\Java\jdk1.8.0_101/bin;C:\Program Files\Java\jdk1.8.0_101/bin;C:\oracle\product\10.2.0\db_1\bin;C:\ProgramData\Oracle\Java\javapath;C:\app\xiaozhe\product\11.2.0\client_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\ActivIdentity\ActivClient\;C:\Program&gt; Files (x86)\ActivIdentity\ActivClient\;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\Java\jdk1.8.0_101\bin;C:\Program Files\Java\jdk1.8.0_101\jre\bin;C:\Program Files (x86)\HP\Unified Functional Testing\bin;C:\Program Files\TortoiseSVN\bin;C:\Users\zhanzhiq\eclipse\apache-ant-1.9.6-bin\apache-ant-1.9.6\bin;C:\Users\zhanzhiq\selenium\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin;C:\Program Files (x86)\Git\bin;C:\Users\zhanzhiq\Downloads\android-sdk-windows\android-sdk-windows\tools;C:\Users\zhanzhiq\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\zhanzhiq\AppData\Local\Programs\Python\Python35\;."/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="POM_GROUPID" value="my.demo"/>
+    <property name="POM_ARTIFACTID" value="Test3"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="LOGGING_MANAGER" value="-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager"/>
+    <property name="_RUNJDB" value="&quot;C:\Program Files\Java\jdk1.8.0_101\bin\jdb.exe&quot;"/>
+    <property name="JOB_URL" value="http://localhost:8080/jenkins/job/TestMaven/"/>
+    <property name="MAINCLASS" value="org.apache.catalina.startup.Bootstrap"/>
+    <property name="JENKINS_HOME" value="C:\Users\zhanzhiq\.jenkins"/>
+    <property name="BUILD_ID" value="40"/>
+    <property name="TEMP" value="C:\Users\zhanzhiq\AppData\Local\Temp"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_101\jre\bin"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.variant" value=""/>
+    <property name="PROCESSOR_REVISION" value="3001"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="VSEDEFLOGDIR" value="C:\ProgramData\McAfee\DesktopProtection"/>
+    <property name="HUDSON_HOME" value="C:\Users\zhanzhiq\.jenkins"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="PATH+MAVEN" value="C:\Users\zhanzhiq\selenium\apache-maven-3.3.9-bin\apache-maven-3.3.9/bin"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="ASIAPACIFIC"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="CURRENT_DIR" value="C:\Users\zhanzhiq\apache-tomcat-8.0.30\bin"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_101"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="USERPROFILE" value="C:\Users\zhanzhiq"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\zhanzhiq"/>
+    <property name="USERNAME" value="zhanzhiq"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="PROCESSOR_LEVEL" value="21"/>
+    <property name="USERDNSDOMAIN" value="ASIAPACIFIC.CPQCORP.NET"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="user.dir" value="C:\Users\zhanzhiq\workspace\Test3"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="TMP" value="C:\Users\zhanzhiq\AppData\Local\Temp"/>
+    <property name="UATDATA" value="C:\windows\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="java.vm.version" value="25.101-b13"/>
+    <property name="java.class.path" value="C:\Users\zhanzhiq\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven32-agent-1.7.jar;C:\Users\zhanzhiq\selenium\apache-maven-3.3.9-bin\apache-maven-3.3.9\boot\plexus-classworlds-2.5.2.jar;C:\Users\zhanzhiq\selenium\apache-maven-3.3.9-bin\apache-maven-3.3.9/conf/logging"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="WORKSPACE" value="C:\Users\zhanzhiq\.jenkins\workspace\TestMaven"/>
+    <property name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="LANG" value="zh_CN.UTF-8"/>
+    <property name="SystemRoot" value="C:\WINDOWS"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.runtime.version" value="1.8.0_101-b13"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_101\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_101\jre\classes"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk1.8.0_101/bin"/>
+    <property name="PERL5LIB" value="C:\oracle\product\10.2.0\db_1\perl\5.8.3\lib\MSWin32-x86;C:\oracle\product\10.2.0\db_1\perl\5.8.3\lib;C:\oracle\product\10.2.0\db_1\perl\5.8.3\lib\MSWin32-x86;C:\oracle\product\10.2.0\db_1\perl\site\5.8.3;C:\oracle\product\10.2.0\db_1\perl\site\5.8.3\lib;C:\oracle\product\10.2.0\db_1\sysman\admin\scripts;"/>
+    <property name="user.country" value="US"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="maven.home" value="C:\Users\zhanzhiq\selenium\apache-maven-3.3.9-bin\apache-maven-3.3.9"/>
+    <property name="JOB_BASE_NAME" value="TestMaven"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="Test3"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+  </properties>
+  <testcase classname="Sample" name="testDHGG" time="53.792"/>
+</testsuite>
